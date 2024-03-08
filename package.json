@@ -1,0 +1,25 @@
+{
+  "name": "pace-progress-bar",
+  "version": "1.0.10",
+  "description": "Page load progress bar",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aegion07/pace-progress-bar.git"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7.0",
+    "coffee-script": "~1.6.3",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "color": "~0.4.4"
+  },
+  "keywords": [
+    "pace",
+    "loader",
+    "progressbar"
+  ]
+}
